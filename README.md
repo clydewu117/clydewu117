@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm Baicheng Wu
+
+📫 Email: wu.5801@osu.edu  
+🌐 Website: https://clydewu117.github.io
 
 <!--
 **clydewu117/clydewu117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
