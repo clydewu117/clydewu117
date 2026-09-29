@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Baicheng Wu
 
-📫 Email: wu.5801@osu.edu  
+📫 Email: clywu117@uw.edu
 🌐 Website: https://clydewu117.github.io
 
 <!--
